@@ -9,9 +9,10 @@ p, h1, img{
 	margin:auto;
 	text-align:center;
 }
-.img{
+.image{
 	margin:auto;
 	width:80%;
+	
 }
 .buy{
 	background-color:red;
